@@ -369,6 +369,9 @@ nav .fas{
 	#header{
 		background-image: url(images/hi2.jpg);
 	}
+	.logo{
+		height: 50px;
+	}
 	.header_text h1{
 		font-size: 16px;
 		margin-top: 100%;
